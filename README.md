@@ -1,3 +1,5 @@
+> I forked this so I could merge in the latest Nuxt stater package commits ontop of the Vuetify-Nuxt starter template.
+
 # Starter
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) + [Vuetify.js](https://github.com/vuetifyjs/vuetify) starter project template without the distraction of a complicated development environment.
